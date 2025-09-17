@@ -111,11 +111,11 @@ DesignPattern git:(master) tree
 To run this project, install it locally using git-clone:
 
 ```shell
-gh repo clone https://github.com/MrRezoo/design-patterns-python.git
+gh repo clone https://github.com/rezamobaraki/design-patterns-python.git
 
 #or
  
-git clone https://github.com/MrRezoo/design-patterns-python.git
+git clone https://github.com/rezamobaraki/design-patterns-python.git
 ```
 
 
