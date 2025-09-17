@@ -16,7 +16,7 @@
 
 ## General info
 
-Hi , this is [Mr.Rezoo](https://www.linkedin.com/in/reza-mobaraki/) 
+Hi , this is [Reza Mobaraki](https://www.linkedin.com/in/reza-mobaraki/) 
 
 these are the most important design patterns
 
