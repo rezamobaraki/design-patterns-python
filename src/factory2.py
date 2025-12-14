@@ -51,4 +51,5 @@ def client(file, format):  # client
     return result.call_edit()
 
 
-print(client('show', 'xml'))
+if __name__ == '__main__':
+    print(client('show', 'xml'))
