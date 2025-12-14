@@ -35,7 +35,7 @@ class Game:
         if game_type == 's':
             p1 = HumanPlayer()
             p2 = SystemPlayer()
-        elif game_type == 's':
+        elif game_type == 'm':
             p1 = HumanPlayer()
             p2 = HumanPlayer()
         else:
